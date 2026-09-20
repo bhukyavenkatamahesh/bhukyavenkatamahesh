@@ -74,41 +74,6 @@ Exploring LLM benchmarking, evaluation, alignment, and trustworthy AI, with a fo
 
 Hands-on work involving PCA, K-Means, GMM, neural networks, adversarial training, and vision/ML models.
 
-🌱 Open Source Journey
-
-I'm currently building a habit of spending 1 hour every day working with open-source projects.
-
-My goal is to learn how real production software is built and maintained by:
-
-Reading unfamiliar codebases
-
-Reproducing bugs
-
-Writing tests
-
-Fixing issues
-
-Reviewing pull requests
-
-Making meaningful contributions
-
-Learning to understand and improve existing software, not just build projects from scratch.
-
-🎯 Current Learning
-
-Software Engineering
-├── Data Structures & Algorithms
-├── Backend Development
-├── System Design
-├── Distributed Systems
-├── Cloud & DevOps
-└── Open Source Development
-
-AI / LLM
-├── LLM Evaluation
-├── Alignment & Distillation
-├── RAG / Agents
-└── Trustworthy AI
 
 📊 GitHub Stats
 
@@ -132,10 +97,5 @@ AI / LLM
   </a>
 </p>
 
-💡 A little about me
-
-I enjoy understanding how things work under the hood, building useful software, and continuously improving through hands-on engineering.
-
-Build → Learn → Debug → Contribute → Repeat.
 
 ⭐ Thanks for visiting my profile!
