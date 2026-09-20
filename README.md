@@ -20,12 +20,6 @@ Currently exploring **LLMs, backend systems, cloud, and open source**.
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,postgres,supabase,docker,kubernetes,azure,pytorch" />
 </p>
 
-### 📊 GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bhukyavenkatamahesh&show_icons=true&hide_border=true" />
-</p>
-
 ### 📫 Connect
 
 [GitHub](https://github.com/bhukyavenkatamahesh) · [LinkedIn](https://www.linkedin.com/)
